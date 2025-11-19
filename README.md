@@ -1,4 +1,3 @@
-<!-- Banner o título -->
 <h1 align="center">👋🏼 Hi, I'm Kevin Solano</h1>
 <h3 align="center">Senior Software Engineer · iOS Specialist · Costa Rica 🇨🇷</h3>
 
@@ -59,14 +58,6 @@ I enjoy designing maintainable systems, improving product quality, and working w
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksolanoj&show_icons=true&theme=react" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksolanoj&layout=compact&theme=react" height="160" />
-</p>
-
----
-
 ## 🌍 Connect with Me
 
 <p>
@@ -91,4 +82,4 @@ I enjoy designing maintainable systems, improving product quality, and working w
 
 ---
 
-### ⭐ *Thanks for visiting! Feel free to connect or explore my repositories.*  
+### ⭐ *Thanks for visiting! Feel free to connect or explore my repositories.*
